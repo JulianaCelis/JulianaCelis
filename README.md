@@ -8,6 +8,7 @@
 - **React**: Construcción de interfaces de usuario interactivas.
 - **Express.js**: Marco de aplicación web para Node.js.
 - **MongoDB**: Base de datos NoSQL para almacenamiento de datos.
+- **PostgreSQL**: Sistema de gestión de bases de datos relacional.
 - **Webpack**: Empaquetador de módulos para aplicaciones JavaScript.
 - **Git**: Control de versiones distribuido.
 
