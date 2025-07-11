@@ -8,7 +8,7 @@
 - **Backend:** Node.js, Express, Next.js  
 - **Bases de datos:** MongoDB, PostgreSQL, MySQL  
 - **Cloud & DevOps:** AWS (S3, Lambda, RDS, CloudWatch), Firebase  
-- **Otros:** Git, Figma, Jira, Slack, Postman, Insomnia, Sentry, JWT, OAuth 2.0, WebSockets, Jest  
+- **Otros:** Git, Figma, Jira, Slack, Postman, Insomnia, Sentry, JWT, OAuth 2.0, WebSockets, Jest, Mocha / Chai 
 
 ## Contacto
 
