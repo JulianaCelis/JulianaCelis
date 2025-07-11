@@ -1,18 +1,16 @@
-# Desarrolladora Web
+# Desarrolladora Full Stack
 
-¡Hola! Soy Juliana, una apasionada desarrolladora web con experiencia en tecnologías como Node.js y React. Me especializo en la creación de aplicaciones web robustas y modernas.
+¡Hola! Soy Juliana, desarrolladora full stack con experiencia en desarrollo web y móvil. Trabajo con tecnologías modernas como Flutter, Vue, React y Node.js, construyendo aplicaciones funcionales, limpias y bien estructuradas.
 
 ## Tecnologías
 
-- **Node.js**: Desarrollo del lado del servidor.
-- **React**: Construcción de interfaces de usuario interactivas.
-- **Express.js**: Marco de aplicación web para Node.js.
-- **MongoDB**: Base de datos NoSQL para almacenamiento de datos.
-- **PostgreSQL**: Sistema de gestión de bases de datos relacional.
-- **Webpack**: Empaquetador de módulos para aplicaciones JavaScript.
-- **Git**: Control de versiones distribuido.
+- **Frontend:** Flutter, Vue, React, Vite, Bootstrap  
+- **Backend:** Node.js, Express, Next.js  
+- **Bases de datos:** MongoDB, PostgreSQL, MySQL  
+- **Cloud & DevOps:** AWS (S3, Lambda, RDS, CloudWatch), Firebase  
+- **Otros:** Git, Figma, Jira, Slack, Postman, Insomnia, Sentry, JWT, OAuth 2.0, WebSockets, Jest  
 
 ## Contacto
 
-- Correo electrónico: juliana0celis@gmai.com
-- LinkedIn: https://www.linkedin.com/in/juliana-celis-tovar-13a886217/
+- 📧 juliana0celis@gmail.com  
+- 💼 [LinkedIn](https://www.linkedin.com/in/juliana-celis-tovar-13a886217/)
